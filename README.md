@@ -1,6 +1,6 @@
 ## I'm a Husband, Father, Developer, and CEO!!
 
-- 🌱 I’m currently learning everything Python
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Learning Python to realized my Ideas
 - ⚡ Fun fact: I love to play Bass and 
