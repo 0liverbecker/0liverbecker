@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @0liverbecker.
-- 👀 I’m interested in so many things.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate.
-- 📫 How to reach me ...You find ways
+## I'm a Husband, Father, Developer, and CEO!!
+
+- 🌱 I’m currently learning everything Python
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Learning Python to realized my Ideas
+- ⚡ Fun fact: I love to play Bass and 
 
 <!---
 0liverbecker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
