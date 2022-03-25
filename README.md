@@ -2,8 +2,8 @@
 
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learning Python to realized my Ideas
-- ⚡ Fun fact: I love to play Bass and 
+- 🥅 2022 Goals: Learning Python to realized my Ideas
+- ⚡ Fun fact: I love to play Bass 
 
 <!---
 0liverbecker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
